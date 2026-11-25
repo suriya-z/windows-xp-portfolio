@@ -1,0 +1,7 @@
+{
+  "name": "Suriya - Windows XP Portfolio",
+  "description": "A Windows XP (Luna) desktop portfolio for Suriya, AI Engineer, with working windows, Explorer, Notepad, Paint, Internet Explorer, Calculator and Internet Reversi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [],
+  "overwrite": true
+}
